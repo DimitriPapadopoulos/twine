@@ -176,7 +176,7 @@ need to add your name to the entry, since that will be associated with the pull
 request.
 
 Changelog entries are rendered using `reStructuredText`_, but they should only
-have minimal formatting (such as ````monospaced text````).
+have minimal formatting (such as ``monospaced text``).
 
 .. _`towncrier`: https://pypi.org/project/towncrier/
 .. _`reStructuredText`: https://www.writethedocs.org/guide/writing/reStructuredText/
@@ -232,10 +232,10 @@ Adding a maintainer
 A checklist for adding a new maintainer to the project.
 
 #. Add them as a Member in the GitHub repo settings.
-#. Get them Test PyPI and canon PyPI usernames and add them as a
+#. Get them Test PyPI and canonical PyPI usernames and add them as a
    Maintainer on `our Test PyPI project
    <https://test.pypi.org/manage/project/twine/collaboration/>`_ and
-   `canon PyPI
+   `canonical PyPI
    <https://pypi.org/manage/project/twine/collaboration/>`_.
 
 
