@@ -176,7 +176,7 @@ need to add your name to the entry, since that will be associated with the pull
 request.
 
 Changelog entries are rendered using `reStructuredText`_, but they should only
-have minimal formatting (such as ``monospaced text``).
+have minimal formatting (such as ````monospaced text````).
 
 .. _`towncrier`: https://pypi.org/project/towncrier/
 .. _`reStructuredText`: https://www.writethedocs.org/guide/writing/reStructuredText/
